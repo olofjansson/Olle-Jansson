@@ -43,4 +43,4 @@ dotnet build
 dotnet run
 ```
 
-Programmet visar alla indata- och utdatavärden formaterat i konsolen.
+Programmet ber om interaktiv inmatning av motorparametrar och visar sedan alla indata- och utdatavärden formaterat i konsolen. Du kan trycka Enter för att använda standardvärdena ovan, eller ange egna värden.
